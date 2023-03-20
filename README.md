@@ -1,3 +1,5 @@
+<img src="mobileGroupProjet.png" alt="Demo Photo" width="200"/>
+
 ## Project Concept 
 
 For this project we chose to make a social media app that consists of posting geo located photos onto a map. In this instance we've chosen to forgo user authentication and accounts due to project scope (if we have extra time we might look at it). The app is currently planned to consist of 3 screens. The map screen, the view-post screen, and the create-post screen.
